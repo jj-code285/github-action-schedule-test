@@ -1,4 +1,4 @@
-name: Actions workflow
+name: Actions Workflow Test
 
 on:
   schedule:
